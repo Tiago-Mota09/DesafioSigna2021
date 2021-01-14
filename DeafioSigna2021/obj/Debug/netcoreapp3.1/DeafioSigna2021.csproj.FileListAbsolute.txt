@@ -1,0 +1,5 @@
+C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\DeafioSigna2021\DeafioSigna2021\obj\Debug\netcoreapp3.1\DeafioSigna2021.csprojAssemblyReference.cache
+C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\DeafioSigna2021\DeafioSigna2021\obj\Debug\netcoreapp3.1\DeafioSigna2021.AssemblyInfoInputs.cache
+C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\DeafioSigna2021\DeafioSigna2021\obj\Debug\netcoreapp3.1\DeafioSigna2021.AssemblyInfo.cs
+C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\DeafioSigna2021\DeafioSigna2021\obj\Debug\netcoreapp3.1\DeafioSigna2021.csproj.CoreCompileInputs.cache
+C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\DeafioSigna2021\DeafioSigna2021\obj\Debug\netcoreapp3.1\DeafioSigna2021.MvcApplicationPartsAssemblyInfo.cache

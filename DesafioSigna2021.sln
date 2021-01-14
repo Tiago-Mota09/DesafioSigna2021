@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSigna2021", "DeafioSigna2021\DesafioSigna2021.csproj", "{6592DBD7-B9DC-4DFB-B160-33E6C0FD2D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6592DBD7-B9DC-4DFB-B160-33E6C0FD2D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6592DBD7-B9DC-4DFB-B160-33E6C0FD2D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6592DBD7-B9DC-4DFB-B160-33E6C0FD2D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6592DBD7-B9DC-4DFB-B160-33E6C0FD2D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8482B5-6861-4334-B7F1-C98B6BE91602}
+	EndGlobalSection
+EndGlobal
